@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138290434300",
+    "project_id": "aoe-builds-de",
+    "storage_bucket": "aoe-builds-de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138290434300:android:38020b466358a9b2970779",
+        "android_client_info": {
+          "package_name": "com.GimoMagic.aoebuildsde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138290434300-3k3abqpl68d5htndkffk45nqs3hd3i76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GimoMagic.aoebuildsde",
+            "certificate_hash": "3ddc5a9b454124cf7a385d18e83df5f71894db1d"
+          }
+        },
+        {
+          "client_id": "138290434300-0vv73lj0gge7m0nm67caumqhpglsub8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABm4uMdcwcwB_wTyCBe2x2HQJzv953Q6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138290434300-0vv73lj0gge7m0nm67caumqhpglsub8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
